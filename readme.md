@@ -2,7 +2,7 @@
 
 ## 🚀 Run
 
-### install streamlit
+### install `streamlit`
 
 ```bash
 pip3 install streamlit
